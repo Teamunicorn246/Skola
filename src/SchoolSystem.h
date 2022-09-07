@@ -7,8 +7,6 @@ class SchoolSystem
 {
 public:
 	void Run();
-
-
 	void AddStudent();
 	void RemoveStudent();
 
